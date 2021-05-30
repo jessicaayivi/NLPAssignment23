@@ -32,7 +32,3 @@ ID,age_pred,sex_pred
 1,35,F
 2,45,M
 ...
-
-You must also send us your solution/code via github.
-
-Please let me know if you have any questions or concerns.
